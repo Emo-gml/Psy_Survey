@@ -1,9 +1,13 @@
 # Psy_Survey
 
 # Agent
-MADP: Multi-Agent Deductive Planning for Enhanced Cognitive-Behavioral Mental Health Question Answer[here](https://arxiv.org/abs/2501.15826)
+MADP: Multi-Agent Deductive Planning for Enhanced Cognitive-Behavioral Mental Health Question Answer [here](https://arxiv.org/abs/2501.15826)
 # LLM
+An Assessment on Comprehending Mental Health through Large Language Models [here](https://arxiv.org/abs/2401.04592)
+
 Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling [here](https://arxiv.org/abs/2505.15715)
+
+Delving into the Depths: Evaluating Depression Severity through BDI-biased Summaries [here](https://aclanthology.org/2024.clpsych-1.2/)
 
 From Reddit to Generative AI: Evaluating Large Language Models for Anxiety Support Fine-tuned on Social Media Data [here](https://arxiv.org/abs/2505.18464)
 
@@ -16,6 +20,9 @@ Randomized Trial of a Generative AI Chatbot for Mental Health Treatment [here](h
 Spiritual-LLM : Gita Inspired Mental Health Therapy In the Era of LLMs [here](https://arxiv.org/abs/2506.19185)
 
 Socratic Reasoning Improves Positive Text Rewriting [here](https://arxiv.org/abs/2403.03029)
-# Dataset（Benchmark）  
-SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing [here](https://arxiv.org/abs/2502.17857)
 
+Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model [here](https://aclanthology.org/2024.eacl-long.75/)
+# Dataset（Benchmark）  
+Diverse Perspectives, Divergent Models: Cross-Cultural Evaluation of Depression Detection on Twitter [here](https://aclanthology.org/2024.naacl-short.58/)
+
+SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing [here](https://arxiv.org/abs/2502.17857)
