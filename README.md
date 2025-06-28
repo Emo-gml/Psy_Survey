@@ -13,6 +13,8 @@ From Reddit to Generative AI: Evaluating Large Language Models for Anxiety Suppo
 
 Fine-Tuning Large Language Models to Deliver CBT for Depression [here](https://arxiv.org/abs/2412.00251)
 
+Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model [here](https://aclanthology.org/2024.eacl-long.75/)
+
 MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration [here](https://arxiv.org/abs/2505.23229)
 
 Randomized Trial of a Generative AI Chatbot for Mental Health Treatment [here](https://gwern.net/doc/psychiatry/depression/2025-heinz.pdf#:~:text=We%20utilized%20transformer,tuned%20models%20via)
@@ -20,8 +22,6 @@ Randomized Trial of a Generative AI Chatbot for Mental Health Treatment [here](h
 Spiritual-LLM : Gita Inspired Mental Health Therapy In the Era of LLMs [here](https://arxiv.org/abs/2506.19185)
 
 Socratic Reasoning Improves Positive Text Rewriting [here](https://arxiv.org/abs/2403.03029)
-
-Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model [here](https://aclanthology.org/2024.eacl-long.75/)
 # Dataset（Benchmark）  
 Diverse Perspectives, Divergent Models: Cross-Cultural Evaluation of Depression Detection on Twitter [here](https://aclanthology.org/2024.naacl-short.58/)
 
