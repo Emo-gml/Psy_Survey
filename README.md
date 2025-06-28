@@ -15,7 +15,11 @@ Fine-Tuning Large Language Models to Deliver CBT for Depression [here](https://a
 
 Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model [here](https://aclanthology.org/2024.eacl-long.75/)
 
+LLM-empowered Chatbots for Psychiatrist and Patient Simulation: Application and Evaluation [here](https://arxiv.org/abs/2305.13614)
+
 MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration [here](https://arxiv.org/abs/2505.23229)
+
+Mixed Chain-of-Psychotherapies for Emotional Support Chatbot [here](https://arxiv.org/abs/2409.19533)
 
 Randomized Trial of a Generative AI Chatbot for Mental Health Treatment [here](https://gwern.net/doc/psychiatry/depression/2025-heinz.pdf#:~:text=We%20utilized%20transformer,tuned%20models%20via)
 
@@ -25,4 +29,10 @@ Socratic Reasoning Improves Positive Text Rewriting [here](https://arxiv.org/abs
 # Dataset（Benchmark）  
 Diverse Perspectives, Divergent Models: Cross-Cultural Evaluation of Depression Detection on Twitter [here](https://aclanthology.org/2024.naacl-short.58/)
 
+Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors [here](https://aclanthology.org/2024.acl-long.227/) [dataset](https://github.com/SALT-NLP/counseling-feedback)
+
 SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing [here](https://arxiv.org/abs/2502.17857)
+
+SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations [here](https://aclanthology.org/2023.findings-emnlp.83/) [dataset](https://github.com/scutcyr/SoulChat?tab=readme-ov-file)
+
+Towards Emotional Support Dialog Systems [here](https://aclanthology.org/2021.acl-long.269/) [dataset](https://github.com/thu-coai/Emotional-Support-Conversation?tab=readme-ov-file)
