@@ -7,17 +7,25 @@ An Assessment on Comprehending Mental Health through Large Language Models [here
 
 A Computational Framework for Behavioral Assessment of LLM Therapists [here](https://arxiv.org/abs/2401.00820)
 
+Aligning Large Language Models for Enhancing Psychiatric Interviews Through Symptom Delineation and Summarization: Pilot Study [here](https://arxiv.org/abs/2403.17428)
+
+AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts [here](https://arxiv.org/abs/2404.11449)
+
 Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling [here](https://arxiv.org/abs/2505.15715)
 
 Delving into the Depths: Evaluating Depression Severity through BDI-biased Summaries [here](https://aclanthology.org/2024.clpsych-1.2/)
 
 Empowering Psychotherapy with Large Language Models: Cognitive Distortion Detection through Diagnosis of Thought Prompting [here](https://aclanthology.org/2023.findings-emnlp.284/)
 
+Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [here](https://aclanthology.org/2024.clpsych-1.20/)
+
 From Reddit to Generative AI: Evaluating Large Language Models for Anxiety Support Fine-tuned on Social Media Data [here](https://arxiv.org/abs/2505.18464)
 
 Fine-Tuning Large Language Models to Deliver CBT for Depression [here](https://arxiv.org/abs/2412.00251)
 
 Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model [here](https://aclanthology.org/2024.eacl-long.75/)
+
+How Can Client Motivational Language Inform Psychotherapy Agents? [here](https://aclanthology.org/2024.clpsych-1.3/)
 
 Identifying Early Maladaptive Schemas from Mental Health Question Texts [here](https://aclanthology.org/2023.findings-emnlp.792/)
 
@@ -45,4 +53,10 @@ SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdso
 
 SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations [here](https://aclanthology.org/2023.findings-emnlp.83/) [dataset](https://github.com/scutcyr/SoulChat?tab=readme-ov-file)
 
+Still Not Quite There! Evaluating Large Language Models for Comorbid Mental Health Diagnosis [here](https://arxiv.org/abs/2410.03908) [dataset](https://huggingface.co/datasets/mental-health-comorbidity-classification/ANGST)
+
 Towards Emotional Support Dialog Systems [here](https://aclanthology.org/2021.acl-long.269/) [dataset](https://github.com/thu-coai/Emotional-Support-Conversation?tab=readme-ov-file)
+
+Therapy as an NLP Task: Psychologists' Comparison of LLMs and Human Peers in CBT V1 [here](https://arxiv.org/abs/2409.02244v1)
+
+Therapy as an NLP Task: Psychologists' Comparison of LLMs and Human Peers in CBT V2 [here](https://arxiv.org/abs/2409.02244v2)
