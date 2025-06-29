@@ -1,5 +1,5 @@
 # Psy_Survey
-
+Currently collecting **30** related tasks.
 # Agent
 MADP: Multi-Agent Deductive Planning for Enhanced Cognitive-Behavioral Mental Health Question Answer [here](https://arxiv.org/abs/2501.15826)
 # LLM
