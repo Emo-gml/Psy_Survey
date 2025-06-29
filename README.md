@@ -1,9 +1,13 @@
 # Psy_Survey
-Currently, **34** relevant tasks have been collected.
+Currently, **40** relevant tasks have been collected.
 # Agent
+COCOA: CBT-based Conversational Counseling Agent using Memory Specialized in Cognitive Distortions and Dynamic Prompt [here](https://arxiv.org/abs/2402.17546)
+
 Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory [here](https://arxiv.org/abs/2409.15084)
 
 MADP: Multi-Agent Deductive Planning for Enhanced Cognitive-Behavioral Mental Health Question Answer [here](https://arxiv.org/abs/2501.15826)
+
+MentalAgora: A Gateway to Advanced Personalized Care in Mental Health through Multi-Agent Debating and Attribute Control [here](https://arxiv.org/abs/2407.02736)
 # LLM
 An Assessment on Comprehending Mental Health through Large Language Models [here](https://arxiv.org/abs/2401.04592)
 
@@ -18,6 +22,8 @@ Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Lang
 Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs [here](https://arxiv.org/abs/2410.05684)
 
 Delving into the Depths: Evaluating Depression Severity through BDI-biased Summaries [here](https://aclanthology.org/2024.clpsych-1.2/)
+
+Depression Detection on Social Media with Large Language Models [here](https://arxiv.org/abs/2403.10750)
 
 Empowering Psychotherapy with Large Language Models: Cognitive Distortion Detection through Diagnosis of Thought Prompting [here](https://aclanthology.org/2023.findings-emnlp.284/)
 
@@ -50,8 +56,14 @@ Spiritual-LLM : Gita Inspired Mental Health Therapy In the Era of LLMs [here](ht
 Socratic Reasoning Improves Positive Text Rewriting [here](https://arxiv.org/abs/2403.03029)
 
 The Capability of Large Language Models to Measure Psychiatric Functioning [here](https://arxiv.org/abs/2308.01834)
+
+Towards Reliable and Empathetic Depression-Diagnosis-Oriented Chats [here](https://arxiv.org/abs/2404.05012)
 # Dataset（Benchmark）  
+Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory [here](https://arxiv.org/abs/2407.03103) [dataset](https://github.com/coding-groot/cactus)
+
 Diverse Perspectives, Divergent Models: Cross-Cultural Evaluation of Depression Detection on Twitter [here](https://aclanthology.org/2024.naacl-short.58/)
+
+Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood-Aware Multi-Task Learning [here](https://aclanthology.org/2024.naacl-long.278/) [dataset](https://github.com/DSAIL-SKKU/Detecting-BD-from-Misdiagnosed-MDD_NAACL_2024)
 
 Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors [here](https://aclanthology.org/2024.acl-long.227/) [dataset](https://github.com/SALT-NLP/counseling-feedback)
 
