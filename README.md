@@ -1,6 +1,8 @@
 # Psy_Survey
-Currently, **30** relevant tasks have been collected.
+Currently, **34** relevant tasks have been collected.
 # Agent
+Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory [here](https://arxiv.org/abs/2409.15084)
+
 MADP: Multi-Agent Deductive Planning for Enhanced Cognitive-Behavioral Mental Health Question Answer [here](https://arxiv.org/abs/2501.15826)
 # LLM
 An Assessment on Comprehending Mental Health through Large Language Models [here](https://arxiv.org/abs/2401.04592)
@@ -12,6 +14,8 @@ Aligning Large Language Models for Enhancing Psychiatric Interviews Through Symp
 AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts [here](https://arxiv.org/abs/2404.11449)
 
 Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling [here](https://arxiv.org/abs/2505.15715)
+
+Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs [here](https://arxiv.org/abs/2410.05684)
 
 Delving into the Depths: Evaluating Depression Severity through BDI-biased Summaries [here](https://aclanthology.org/2024.clpsych-1.2/)
 
@@ -34,6 +38,10 @@ LLM-empowered Chatbots for Psychiatrist and Patient Simulation: Application and 
 MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration [here](https://arxiv.org/abs/2505.23229)
 
 Mixed Chain-of-Psychotherapies for Emotional Support Chatbot [here](https://arxiv.org/abs/2409.19533)
+
+MindfulDiary: Harnessing Large Language Model to Support Psychiatric Patients' Journaling [here](https://dl.acm.org/doi/10.1145/3613904.3642937)
+
+Mental Disorders Detection in the Era of Large Language Models [here](https://arxiv.org/abs/2410.07129)
 
 Randomized Trial of a Generative AI Chatbot for Mental Health Treatment [here](https://gwern.net/doc/psychiatry/depression/2025-heinz.pdf#:~:text=We%20utilized%20transformer,tuned%20models%20via)
 
