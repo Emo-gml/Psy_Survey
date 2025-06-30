@@ -1,5 +1,5 @@
 # Psy_Survey
-Currently, **40** relevant tasks have been collected.
+Currently, **46** relevant tasks have been collected.
 # Agent
 COCOA: CBT-based Conversational Counseling Agent using Memory Specialized in Cognitive Distortions and Dynamic Prompt [here](https://arxiv.org/abs/2402.17546)
 
@@ -17,6 +17,8 @@ Aligning Large Language Models for Enhancing Psychiatric Interviews Through Symp
 
 AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts [here](https://arxiv.org/abs/2404.11449)
 
+Automatic Evaluation for Mental Health Counseling using LLMs [here](https://arxiv.org/abs/2402.11958v1)
+
 Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling [here](https://arxiv.org/abs/2505.15715)
 
 Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs [here](https://arxiv.org/abs/2410.05684)
@@ -28,6 +30,8 @@ Depression Detection on Social Media with Large Language Models [here](https://a
 Empowering Psychotherapy with Large Language Models: Cognitive Distortion Detection through Diagnosis of Thought Prompting [here](https://aclanthology.org/2023.findings-emnlp.284/)
 
 Extracting and Summarizing Evidence of Suicidal Ideation in Social Media Contents Using Large Language Models [here](https://aclanthology.org/2024.clpsych-1.20/)
+
+ERD: A Framework for Improving LLM Reasoning for Cognitive Distortion Classification [here](https://aclanthology.org/2024.clinicalnlp-1.25/)
 
 From Reddit to Generative AI: Evaluating Large Language Models for Anxiety Support Fine-tuned on Social Media Data [here](https://arxiv.org/abs/2505.18464)
 
@@ -58,6 +62,12 @@ Socratic Reasoning Improves Positive Text Rewriting [here](https://arxiv.org/abs
 The Capability of Large Language Models to Measure Psychiatric Functioning [here](https://arxiv.org/abs/2308.01834)
 
 Towards Reliable and Empathetic Depression-Diagnosis-Oriented Chats [here](https://arxiv.org/abs/2404.05012)
+
+Towards Understanding Counseling Conversations: Domain Knowledge and Large Language Models [here](https://aclanthology.org/2024.findings-eacl.137/)
+
+Understanding the Therapeutic Relationship between Counselors and Clients in Online Text-based Counseling using LLMs [here](https://arxiv.org/abs/2402.11958)
+
+Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales [here](https://arxiv.org/abs/2402.10948)
 # Dataset（Benchmark）  
 Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory [here](https://arxiv.org/abs/2407.03103) [dataset](https://github.com/coding-groot/cactus)
 
@@ -68,6 +78,8 @@ Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood
 Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors [here](https://aclanthology.org/2024.acl-long.227/) [dataset](https://github.com/SALT-NLP/counseling-feedback)
 
 Motivational Interviewing Transcripts Annotated with Global Scores [here](https://aclanthology.org/2024.lrec-main.1017/) [dataset](https://advanced-reality-lab.github.io/MI-TAGS/)
+
+MEQA: A Benchmark for Multi-hop Event-centric Question Answering with Explanations [here](https://proceedings.neurips.cc/paper_files/paper/2024/file/e560a0b22e4432003d0dba63ff8dc457-Paper-Datasets_and_Benchmarks_Track.pdf) [dataset](https://github.com/du-nlp-lab/MEQA)
 
 SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing [here](https://arxiv.org/abs/2502.17857)
 
